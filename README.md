@@ -22,3 +22,7 @@ Operating Systems class additional materials
 
 
 Есть упражнения на понимание тем. 
+
+- Principles of Computer System Design. An Introduction
+
+Ключевые принципы простыми языком. 
