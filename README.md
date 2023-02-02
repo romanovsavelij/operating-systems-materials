@@ -3,6 +3,21 @@ Operating Systems class additional materials
 
 # Literature 
 
+## Networks
+
+- "Computer Networking : Principles, Protocols and Practice", O. Bonaventure
+
+
+Разбор основных протоколов и принципов их работы. 
+
+- "Computer Networking : Principles,Protocols and Practice"
+- "Computer Networking: A Top-Down Approach"
+- "Computer Networks: A Systems Approach"
+- "Fundamentals of Mobile Data Networks" Miao
+- "High Performance Browser Networking" Ilya Grigorik
+
+## OS
+
 - Operating Systems : Three Easy Pieces / Arpaci-Dusseau
 
 
