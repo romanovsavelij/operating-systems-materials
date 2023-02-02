@@ -25,4 +25,4 @@ Operating Systems class additional materials
 
 - Principles of Computer System Design. An Introduction
 
-Ключевые принципы простыми языком. 
+Фундаментальные принципы, на которых все строится. 
