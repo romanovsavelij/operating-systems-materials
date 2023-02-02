@@ -6,7 +6,7 @@ Operating Systems class additional materials
 - Operating Systems : Three Easy Pieces / Arpaci-Dusseau
 Обьясняют концепты простым языком. 
 
-- [Official Text: xv6 / Cox]()
+- Official Text: xv6 / Cox
 Можно погулять по исходникам xv6, посмотреть на практике. 
 
 - Linux Kernel Development / Love
