@@ -26,3 +26,7 @@ Operating Systems class additional materials
 - Principles of Computer System Design. An Introduction
 
 Фундаментальные принципы, на которых все строится. 
+
+- Computer Architecture. A Quantitative Approach
+
+Книга на более продвинутые темы, такие как Instruction Level Parallelism, и работу процессоров.
