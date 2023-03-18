@@ -3,6 +3,10 @@ Operating Systems class additional materials
 
 # Literature 
 
+## Encryption
+
+- [Bellare "Introduction to Modern Cryptography"](https://web.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf)
+
 ## Networks
 
 - "Сети для самых маленьких"
